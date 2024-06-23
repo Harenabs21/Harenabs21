@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Harena and I'm student in computer science at [HEI](https://hei.school/). I am interesting in web development
+
+## Tools
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,react,npm,html,css,tailwind,github,git,java,spring,maven,aws,idea,vscode,postgres,linux,windows,docker&perline=10)](https://skillicons.dev)
 <!--
 **Harenabs21/Harenabs21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
