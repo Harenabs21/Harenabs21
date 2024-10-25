@@ -3,7 +3,7 @@
 - 📚 I am a student at [HEI](https://hei.school)
 - 👀 I’m interested in computer science, web development and mobile development
 - 🌱 I’m currently learning [React Native](https://reactnative.dev/)
-- 📫 How to reach me: via **email:harenap71@gmail.com**
+- 📫 How to reach me: via **email:hei.harena.6@gmail.com**
 ## Tools
 Here are some tools I'm currently using:
 
