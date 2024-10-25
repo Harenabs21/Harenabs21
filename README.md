@@ -1,8 +1,12 @@
-## Hi there 👋
-
-My name is Harena and I'm student in computer science at [HEI](https://hei.school/). I am interesting in web development
-
+## Hello there 👋
+- 👋 Hi, I’m Harena Sarobidy.
+- 📚 I am a student at [HEI](https://hei.school)
+- 👀 I’m interested in computer science, web development and mobile development
+- 🌱 I’m currently learning [React Native](https://reactnative.dev/)
+- 📫 How to reach me: via **email:harenap71@gmail.com**
 ## Tools
+Here are some tools I'm currently using:
+
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,react,npm,html,css,tailwind,github,git,java,spring,maven,aws,idea,vscode,postgres,linux,windows,docker&perline=10)](https://skillicons.dev)
 <!--
 **Harenabs21/Harenabs21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
