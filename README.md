@@ -3,7 +3,12 @@
 - 📚 I am a student at [HEI](https://hei.school)
 - 👀 I’m interested in computer science, web development and mobile development
 - 🌱 I’m currently learning [React Native](https://reactnative.dev/)
-- 📫 How to reach me: via **email:hei.harena.6@gmail.com**
+- 📫 How to reach me:
+   - via **email:hei.harena.6@gmail.com**
+   - connect with me: [Linkedin](https://www.linkedin.com/in/harena-ramalanjaona/)
+
+## Top languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harenabs21&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ## Tools
 Here are some tools I'm currently using:
 
