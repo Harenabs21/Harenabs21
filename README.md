@@ -7,15 +7,15 @@
    - via **email:hei.harena.6@gmail.com**
    - connect with me: [Linkedin](https://www.linkedin.com/in/harena-ramalanjaona/)
 
-## Top languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harenabs21&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
 ## Tools
 Here are some tools I'm currently using:
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,react,npm,html,css,tailwind,github,git,java,spring,maven,aws,idea,vscode,postgres,linux,windows,docker&perline=10)](https://skillicons.dev)
 
 ## 🔥 My Stats :
-![Harena's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harenabs21&show_icons=true&theme=onedark)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Harenabs21&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Harenabs21's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harenabs21&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ## Watch my contribution graph get eaten by the snake 🐍
 
