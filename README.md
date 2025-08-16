@@ -17,10 +17,16 @@ Here are some tools I'm currently using:
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Harenabs21&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Harenabs21's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harenabs21&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-## Watch my contribution graph get eaten by the snake 🐍
+## Watch my contribution graph get smashed like in Break out game 💣
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harenabs21/Harenabs21/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harenabs21/Harenabs21/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Harenabs21/Harenabs21/output/github-contribution-grid-snake.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
